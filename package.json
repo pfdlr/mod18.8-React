@@ -1,0 +1,15 @@
+{
+  "name": "search_gif",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server"
+  },
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  },
+  "dependenciesComments": {
+    "http-server": "npm install --save-dev http-server@0.9.0"
+  }
+}
